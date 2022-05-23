@@ -1,8 +1,15 @@
-# Calender-in-C
+# Calender-app-in-C-by-ganesh-kavhar
+vijay shashank projects
+
+
 Calender app provides 4 option to users is as follows..
 
-Find Out the Day
-Print all the day of month
-Add Note
-EXIT ENTER YOUR CHOICE :
+1. Find Out the Day
+2. Print all the day of month
+3. Add Note
+4. EXIT
+ENTER YOUR CHOICE :
+
+
+
 /* User nedd to enter the entries as per requirement.*/
